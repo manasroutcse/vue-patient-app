@@ -1,4 +1,4 @@
-<template>
+<!-- <template>
     <v-row align="center" class="list px-3 mx-auto">
       <v-col cols="12" md="8">
         <v-text-field v-model="title" label="Search by Title"></v-text-field>
@@ -123,4 +123,4 @@
   .list {
     max-width: 750px;
   }
-  </style>
+  </style> -->
